@@ -18,7 +18,7 @@ It allows users to manage items using in-memory storage (ArrayList).
 ## How to Run
 
 ### Clone Project
-git clone <repo-url>
+git clone <https://github.com/Rajeev001-ai/ItemApi.git>
 
 ### Run Project
 mvn spring-boot:run
